@@ -1,7 +1,5 @@
 # cadastroHotel
-Sistema de cadastro de reservas
-package Mapa;
-
+Sistema de cadastro de reserva
 
 import java.util.ArrayList;
 import java.util.Scanner;
