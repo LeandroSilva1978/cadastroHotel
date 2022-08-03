@@ -1,4 +1,4 @@
-# cadastroHotel
+# cadastroHotelJava
 Sistema de cadastro de reserva
 
 import java.util.ArrayList;
